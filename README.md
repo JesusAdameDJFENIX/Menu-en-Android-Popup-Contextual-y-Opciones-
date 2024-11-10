@@ -8,6 +8,15 @@ abarcando tanto la interfaz gráfica como la configuración mediante código.
 Este ejercicio te permitirá aprender a trabajar con menús en una aplicación Android, personalizarlos y 
 entender su comportamiento en distintas interacciones de usuario.
 
+En primera instancia debemos de hacer este paso
+Dirígir a res/menu/. Si la carpeta menu no existe, hacer clic derecho en res > New > Android Resource Directory y 
+seleccionar menu como tipo de recurso.
+Crear los siguientes archivos XML dentro de la carpeta menu para definir los elementos de cada tipo de menú.
+
+
+![image](https://github.com/user-attachments/assets/8fdbb970-736a-418f-9e22-f3327fbfadb9)
+
+
 1. AndroidManifest.xml
 Este archivo es esencial para cualquier aplicación Android, ya que contiene la configuración de la aplicación y
 define las actividades que estarán disponibles.
